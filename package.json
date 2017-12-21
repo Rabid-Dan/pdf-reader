@@ -1,0 +1,23 @@
+{
+  "name": "pdf-reader",
+  "version": "1.0.0",
+  "description": "Web based pdf reader with optimisation for reading on laptop and desktop computers.",
+  "main": "index.js",
+  "dependencies": {
+    "pdfjs-dist": "^2.0.220"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rabid-Dan/pdf-reader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rabid-Dan/pdf-reader/issues"
+  },
+  "homepage": "https://github.com/Rabid-Dan/pdf-reader#readme"
+}
